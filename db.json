@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productName": "Cell phones",
+      "productDescription": "Relame ",
+      "productPrice": "13000",
+      "id": 1
+    },
+    {
+      "productName": "Cell phones",
+      "productDescription": "SamSung",
+      "productPrice": "13000",
+      "id": 2
+    },
+    {
+      "productName": "Cell phones",
+      "productDescription": "Nokia",
+      "productPrice": "13000",
+      "id": 3
+    }
+  ]
+}
